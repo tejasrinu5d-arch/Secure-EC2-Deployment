@@ -1,8 +1,8 @@
-\# Secure EC2 Deployment – Project Report
+# Secure EC2 Deployment – Project Report
 
 
 
-\## Project Summary
+## Project Summary
 
 
 
@@ -10,55 +10,55 @@ This project demonstrates the deployment of a secure Amazon EC2 instance on AWS 
 
 
 
-\## AWS Services Used
+## AWS Services Used
 
 
 
-\- Amazon EC2
+- Amazon EC2
 
-\- Amazon EBS
+- Amazon EBS
 
-\- Amazon Machine Image (AMI)
+- Amazon Machine Image (AMI)
 
-\- Amazon CloudWatch
+- Amazon CloudWatch
 
-\- IAM
+- IAM
 
-\- Security Groups
+- Security Groups
 
-\- Amazon VPC
-
-
-
-\## Major Tasks Performed
+- Amazon VPC
 
 
 
-\- Launched an EC2 instance
-
-\- Connected using SSH
-
-\- Installed Apache Web Server
-
-\- Hosted a custom web page
-
-\- Created and attached an EBS volume
-
-\- Formatted and mounted the EBS volume
-
-\- Configured persistent storage using /etc/fstab
-
-\- Created an EBS Snapshot
-
-\- Created a Golden AMI
-
-\- Verified a new EC2 instance from the Golden AMI
-
-\- Monitored the instance using CloudWatch
+## Major Tasks Performed
 
 
 
-\## Outcome
+- Launched an EC2 instance
+
+- Connected using SSH
+
+- Installed Apache Web Server
+
+- Hosted a custom web page
+
+- Created and attached an EBS volume
+
+- Formatted and mounted the EBS volume
+
+- Configured persistent storage using /etc/fstab
+
+- Created an EBS Snapshot
+
+- Created a Golden AMI
+
+- Verified a new EC2 instance from the Golden AMI
+
+- Monitored the instance using CloudWatch
+
+
+
+## Outcome
 
 
 
